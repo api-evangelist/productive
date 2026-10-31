@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Productive is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://productive.io
+Productive provides an integrated agency management and professional services automation platform. It offers resource planning, time tracking, project management, billing, forecasting, and AI-powered tools to help agencies and consulting firms run projects, manage budgets, and collaborate across teams. The solution combines CRM, financials, and workflow automation in a single SaaS product, delivering real-time insights and customizable reporting for improved profitability and client satisfaction.
+
+**Areas:** Company · Agency Management · Professional Services Automation · Software-as-a-Service · Resource Planning
+
+## Productive on APIs.io
+
+Everything profiled for Productive is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/productive/](https://apis.io/providers/productive/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Productive API](https://apis.io/apis/productive/productive-api/) — API for Productive platform providing agency management and professional services automation.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Productive Webhooks](https://apis.io/asyncapis/productive/productive-webhooks/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Productive Domain Security](https://apis.io/security/productive/productive-domain-security/)
+- [Productive Trust Center](https://apis.io/security/productive/productive-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Productive Plans Pricing](https://apis.io/plans/productive/productive-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Productive Rate Limits](https://apis.io/rate-limits/productive/productive-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://productive.io)
+- [Documentation](https://productive.io/docs/)
+- [Getting started](https://help.productive.io/en/articles/2179614-quickbooks-integration-setup)
+- [API reference](https://developer.productive.io/reference)
+- [Pricing](https://productive.io/pricing/)
+- [Support](https://help.productive.io/en/)
+- [Changelog](https://productive.io/whats-new/)
+- [Blog](https://productive.io/blog/)
+- [Compliance](https://productive.io/trust/)
+- [Privacy policy](https://productive.io/trust/privacy-policy)
+- [Status](https://status.productive.io/)
+
+## API Evangelist rating
+
+**Kin Score 56.3** — strong · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 39.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 86.8 |
+| Developer ergonomics | 52.4 |
+| Access clarity | 68.4 |
+
+**Agent readiness 34.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/productive/](https://apis.io/providers/productive/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Productive: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/productive/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
